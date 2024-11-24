@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button:active {
+  @apply bg-gray-100 text-cyan-800;
+}
